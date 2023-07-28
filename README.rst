@@ -1,2 +1,1 @@
-
-Micro-ros code for  robotic telescope
+# robotic_telescope_uros
